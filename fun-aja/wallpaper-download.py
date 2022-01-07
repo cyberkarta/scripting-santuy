@@ -1,4 +1,7 @@
 # Download Wallpaper dari https://windows10spotlight.com
+# Install beautifulsoup dan lxml terlebih dahulu:
+#   pip install beautifulsoup4
+#   pip install lxml
 
 import argparse
 import requests
