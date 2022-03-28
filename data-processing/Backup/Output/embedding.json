@@ -1,0 +1,281 @@
+[
+    {
+        "id_student": 11391,
+        "name": "Mark Fuller",
+        "gender": "M",
+        "region": "East Anglian Region",
+        "highest_education": "HE Qualification",
+        "imd_band": "90-100%",
+        "age_band": "55<=",
+        "disability": "N",
+        "assessments": [
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1752,
+                "assessment_type": "TMA",
+                "deadline": 19.0,
+                "date_submitted": 18,
+                "weight": 10.0,
+                "score": 78.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1753,
+                "assessment_type": "TMA",
+                "deadline": 54.0,
+                "date_submitted": 53,
+                "weight": 20.0,
+                "score": 85.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1754,
+                "assessment_type": "TMA",
+                "deadline": 117.0,
+                "date_submitted": 115,
+                "weight": 20.0,
+                "score": 80.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1755,
+                "assessment_type": "TMA",
+                "deadline": 166.0,
+                "date_submitted": 164,
+                "weight": 20.0,
+                "score": 85.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1756,
+                "assessment_type": "TMA",
+                "deadline": 215.0,
+                "date_submitted": 212,
+                "weight": 30.0,
+                "score": 82.0
+            }
+        ]
+    },
+    {
+        "id_student": 28400,
+        "name": "Kristin Labianca",
+        "gender": "F",
+        "region": "Scotland",
+        "highest_education": "HE Qualification",
+        "imd_band": "20-30%",
+        "age_band": "35-55",
+        "disability": "N",
+        "assessments": [
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1752,
+                "assessment_type": "TMA",
+                "deadline": 19.0,
+                "date_submitted": 22,
+                "weight": 10.0,
+                "score": 70.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1753,
+                "assessment_type": "TMA",
+                "deadline": 54.0,
+                "date_submitted": 52,
+                "weight": 20.0,
+                "score": 68.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1754,
+                "assessment_type": "TMA",
+                "deadline": 117.0,
+                "date_submitted": 121,
+                "weight": 20.0,
+                "score": 70.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1755,
+                "assessment_type": "TMA",
+                "deadline": 166.0,
+                "date_submitted": 164,
+                "weight": 20.0,
+                "score": 64.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1756,
+                "assessment_type": "TMA",
+                "deadline": 215.0,
+                "date_submitted": 212,
+                "weight": 30.0,
+                "score": 60.0
+            }
+        ]
+    },
+    {
+        "id_student": 30268,
+        "name": "Latrisha Frost",
+        "gender": "F",
+        "region": "North Western Region",
+        "highest_education": "A Level or Equivalent",
+        "imd_band": "30-40%",
+        "age_band": "35-55",
+        "disability": "Y",
+        "assessments": []
+    },
+    {
+        "id_student": 31604,
+        "name": "Gloria Smith",
+        "gender": "F",
+        "region": "South East Region",
+        "highest_education": "A Level or Equivalent",
+        "imd_band": "50-60%",
+        "age_band": "35-55",
+        "disability": "N",
+        "assessments": [
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1752,
+                "assessment_type": "TMA",
+                "deadline": 19.0,
+                "date_submitted": 17,
+                "weight": 10.0,
+                "score": 72.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1753,
+                "assessment_type": "TMA",
+                "deadline": 54.0,
+                "date_submitted": 51,
+                "weight": 20.0,
+                "score": 71.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1754,
+                "assessment_type": "TMA",
+                "deadline": 117.0,
+                "date_submitted": 115,
+                "weight": 20.0,
+                "score": 74.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1755,
+                "assessment_type": "TMA",
+                "deadline": 166.0,
+                "date_submitted": 165,
+                "weight": 20.0,
+                "score": 88.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1756,
+                "assessment_type": "TMA",
+                "deadline": 215.0,
+                "date_submitted": 213,
+                "weight": 30.0,
+                "score": 75.0
+            }
+        ]
+    },
+    {
+        "id_student": 32885,
+        "name": "Jean Manning",
+        "gender": "F",
+        "region": "West Midlands Region",
+        "highest_education": "Lower Than A Level",
+        "imd_band": "50-60%",
+        "age_band": "0-35",
+        "disability": "N",
+        "assessments": [
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1752,
+                "assessment_type": "TMA",
+                "deadline": 19.0,
+                "date_submitted": 26,
+                "weight": 10.0,
+                "score": 69.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1753,
+                "assessment_type": "TMA",
+                "deadline": 54.0,
+                "date_submitted": 75,
+                "weight": 20.0,
+                "score": 30.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1754,
+                "assessment_type": "TMA",
+                "deadline": 117.0,
+                "date_submitted": 124,
+                "weight": 20.0,
+                "score": 63.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1755,
+                "assessment_type": "TMA",
+                "deadline": 166.0,
+                "date_submitted": 181,
+                "weight": 20.0,
+                "score": 35.0
+            },
+            {
+                "code_module": "AAA",
+                "module_name": "Big Data Analysis",
+                "code_presentation": "2013J",
+                "id_assessment": 1756,
+                "assessment_type": "TMA",
+                "deadline": 215.0,
+                "date_submitted": 222,
+                "weight": 30.0,
+                "score": 75.0
+            }
+        ]
+    }
+]
