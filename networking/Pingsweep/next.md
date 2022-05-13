@@ -1,0 +1,1 @@
+Bisa detek ARP secara pasif, tanpa scan (karena ARP Broadcast)

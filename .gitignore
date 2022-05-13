@@ -1,3 +1,7 @@
 # tmp
 fun-aja/tmp/*
 !fun-aja/tmp/.gitkeep
+
+# networking
+networking/*.csv
+networking/*/*.csv
